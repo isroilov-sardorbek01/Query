@@ -21,7 +21,7 @@ function Header() {
                         }
                         to="/query2"
                     >
-                        Query-1
+                        Query-2
                     </NavLink>
                 </ul>
                 <button className="px-2 py-1 bg-white rounded-lg active:scale-90 transition-all cursor-pointer">
